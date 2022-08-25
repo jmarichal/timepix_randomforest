@@ -13,7 +13,7 @@ You will need the PyCaret library to run this code. You can easily install it wi
 ```
 pip install pycaret
 ```
-For more information, see https://pycaret.readthedocs.io/en/stable/installation.html.
+See the [PyCaret installation page](https://pycaret.readthedocs.io/en/stable/installation.html) for more information.
 \
 \
 To directly see the results, please check the notebook file Deploy_model.ipynb.
