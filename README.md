@@ -6,7 +6,7 @@ MiniPIX-Timepix is a novel silicon-based detector that enables online visualizat
 A random forest classification model has been trained to determine the particle type (electrons and photons, protons or alpha particles) of a pixel cluster. It is saved in the pickled file random_forest.pkl.
 \
 \
-The files Deploy_model.py shows a little code in Python that deploys the model and uses it on some data from Timepix measurements. 
+The file Deploy_model.py shows a little code in Python that deploys the model and uses it on some data from Timepix measurements. 
 \
 \
 You will need the PyCaret library to run this code. You can easily install it with pip:
